@@ -1,0 +1,100 @@
+experience_level,job_title,salary,company_size,employee_residence,remote_ratio
+SE,AI Engineer,202730,M,US,90
+SE,AI Engineer,92118,M,US,40
+SE,Data Engineer,130500,M,US,36
+SE,Data Engineer,96000,M,US,55
+SE,Machine Learning Engineer,190000,M,US,26
+SE,Machine Learning Engineer,160000,M,US,33
+MI,ML Engineer,400000,M,US,16
+MI,ML Engineer,65000,M,US,30
+EN,Data Analyst,101520,M,US,82
+EN,Data Analyst,45864,M,US,81
+SE,Data Engineer,172469,M,US,64
+SE,Data Engineer,114945,M,US,78
+EX,NLP Engineer,200000,M,US,88
+EX,NLP Engineer,150000,M,US,95
+MI,Data Scientist,156450,M,US,22
+MI,Data Scientist,119200,M,US,25
+SE,Data Analyst,170000,M,US,65
+SE,Data Analyst,130000,M,US,89
+SE,Applied Scientist,222200,L,US,82
+SE,Applied Scientist,136000,L,US,12
+MI,Data Manager,128000,M,US,57
+MI,Data Manager,81500,M,US,73
+SE,Data Architect,93838,M,US,27
+SE,Data Architect,69535,M,US,46
+EN,Data Analyst,75000,M,US,30
+EN,Data Analyst,65000,M,US,38
+MI,Data Operations Manager,150000,M,US,16
+MI,Data Operations Manager,125000,M,US,14
+MI,Research Scientist,260570,M,US,83
+MI,Research Scientist,167030,M,US,50
+EN,Data Engineer,120000,M,US,98
+EN,Data Engineer,100000,M,US,41
+SE,Data Engineer,190000,M,US,75
+SE,Data Engineer,155000,M,US,17
+SE,Data Analyst,174000,M,US,45
+SE,Data Analyst,116000,M,US,41
+MI,Data Analyst,100000,M,US,84
+MI,Data Analyst,80000,M,US,87
+MI,Data Analyst,145000,M,US,55
+MI,Data Analyst,95000,M,US,50
+MI,Data Scientist,120000,S,AU,61
+MI,Data Scientist,70000,S,AU,47
+MI,Data Scientist,130000,M,US,18
+MI,Data Scientist,110000,M,US,55
+MI,Data Science Manager,240000,M,US,55
+MI,Data Science Manager,180000,M,US,87
+SE,Business Intelligence Engineer,202800,M,US,91
+SE,Business Intelligence Engineer,115000,M,US,69
+SE,Data Architect,80000,M,GB,38
+SE,Data Architect,45000,M,GB,24
+SE,Data Analyst,90000,M,CA,100
+SE,Data Analyst,75000,M,CA,54
+MI,Data Analyst,112300,M,US,49
+MI,Data Analyst,75100,M,US,34
+MI,Business Intelligence,178200,M,US,100
+MI,Business Intelligence,87000,M,US,77
+SE,Data Scientist,138000,M,CA,48
+SE,Data Scientist,72000,M,CA,96
+MI,ML Engineer,252000,M,US,93
+MI,ML Engineer,168000,M,US,80
+SE,Data Modeler,140000,M,US,40
+SE,Data Modeler,130000,M,US,82
+SE,Machine Learning Engineer,190000,M,US,72
+SE,Machine Learning Engineer,100000,M,US,53
+MI,Data Scientist,150650,M,US,58
+MI,Data Scientist,106700,M,US,60
+SE,Data Scientist,192300,M,US,93
+SE,Data Scientist,107900,M,US,42
+MI,Data Integration Specialist,115000,M,US,28
+MI,Data Integration Specialist,95500,M,US,30
+MI,Research Scientist,195000,M,US,35
+MI,Research Scientist,160000,M,US,93
+SE,Data Scientist,257600,M,US,54
+SE,Data Scientist,146000,M,US,38
+EN,Data Analyst,90000,M,CA,60
+EN,Data Analyst,70000,M,CA,19
+SE,Machine Learning Engineer,110000,S,NL,86
+SE,Machine Learning Engineer,70000,S,NL,67
+SE,Data Engineer,158200,M,US,66
+SE,Data Engineer,74100,M,US,27
+SE,Data Engineer,231400,M,US,81
+SE,Data Engineer,170955,M,US,69
+MI,Data Engineer,137000,M,US,95
+MI,Data Engineer,60300,M,US,11
+MI,Data Analyst,101098,M,US,47
+MI,Data Analyst,59469,M,US,78
+MI,Data Product Manager,166363,M,US,66
+MI,Data Product Manager,103977,M,US,64
+SE,Data Manager,166000,M,US,28
+SE,Data Manager,104000,M,US,100
+SE,Research Scientist,170400,M,US,56
+SE,Research Scientist,123800,M,US,20
+MI,Data Visualization Specialist,94763,M,US,13
+MI,Data Visualization Specialist,67750,M,US,11
+SE,Machine Learning Engineer,251250,M,US,34
+SE,Machine Learning Engineer,120750,M,US,96
+MI,Data Analyst,30000,M,LT,93
+MI,Data Analyst,25800,M,LT,53
+SE,Data Scientist,189615,M,US,75
